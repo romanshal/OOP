@@ -2,7 +2,7 @@
 
 ### Deadline: Sunday, November 18, 2018 23:59
 
-##Теория
+## Теория
 
 [Презентация](https://drive.google.com/file/d/1t77KNhQxrGuzfG614nvrxGR5CFqri7F1/view?usp=sharing)
 
