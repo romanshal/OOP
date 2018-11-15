@@ -65,4 +65,8 @@
 1) maven-plugin.
 2) Ваш метор.
 
+### Теория
 
+[Презентация](https://drive.google.com/file/d/1t77KNhQxrGuzfG614nvrxGR5CFqri7F1/view?usp=sharing)
+
+[Лекция](https://drive.google.com/file/d/1DKL4AzEFw7zUUzM4iaEzDByAUcHXWruF/view?usp=sharing)
