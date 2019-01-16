@@ -32,7 +32,7 @@
             <plugin>
                 <groupId>com.github.AlexNastin</groupId>
                 <artifactId>netcracker-courses-maven-plugin</artifactId>
-                <version>release-0.0.3</version>
+                <version>0.1.1</version>
                 <executions>
                     <execution>
                         <phase>compile</phase>
