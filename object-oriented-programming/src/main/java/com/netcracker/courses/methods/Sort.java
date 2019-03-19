@@ -11,11 +11,13 @@ public class Sort {
         int value=0;
         Iterator<Triangle> itr = group.iterator();
         List<Triangle> list=new ArrayList<Triangle>();
+        System.out.println();
         System.out.println("Выбор треугольников по выбранной стороне больше заданной");
         System.out.print("Выберите сторону(1,2 или 3): ");
         Scanner sc=new Scanner(System.in);
         if (sc.hasNextInt()) {
             side=sc.nextInt();
+            System.out.println();
             System.out.println("Выберите значение: ");
             Scanner scn=new Scanner(System.in);
             value=scn.nextInt();
