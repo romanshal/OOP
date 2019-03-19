@@ -9,8 +9,8 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         List<Triangle> list=new ArrayList(Group.createGroup());
-        Group.show(list);
+        Group.showList(list);
         TranspositionList.transposition(list);
-        Group.show(Sort.sortOfSide(list));
+        Group.showList(Sort.sortOfSide(list));
     }
 }
