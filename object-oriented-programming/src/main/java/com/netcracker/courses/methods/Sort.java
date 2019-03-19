@@ -18,9 +18,7 @@ public class Sort {
             side=sc.nextInt();
             System.out.println("Выберите значение: ");
             Scanner scn=new Scanner(System.in);
-            if (scn.hasNextInt()) {
-                value=scn.nextInt();
-            }
+            value=scn.nextInt();
             scn.close();
             sc.close();
         }
